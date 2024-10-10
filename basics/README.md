@@ -2,3 +2,4 @@ _"" wrapping pwd and the command substitution $() capture the output assign with
 _same but with ls to list
 _cd to change directory
 _ls -l to display in long format
+_ls -a to display all and hidden files
