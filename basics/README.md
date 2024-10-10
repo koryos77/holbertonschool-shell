@@ -7,4 +7,5 @@ _ls -l -n -a to display long format, with user and groupe ID numerically and hid
 _mkdir -p /tmp/directory_name to create a directory in an another directory
 _mvdir /path /destination
 _rm /path
-rmdir /path
+_rmdir /path
+_cd - to go to previous dir
