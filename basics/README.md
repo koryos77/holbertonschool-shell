@@ -1,0 +1,1 @@
+"" wrapping pwd and the command substitution $() capture the output assign with the echo statement
