@@ -9,3 +9,5 @@
 8 _rm /path
 9 _rmdir /path
 10 _cd - to go to previous dir
+11 _ls -la . .. /boot to print all files from current, working and boot dir
+12_
