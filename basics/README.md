@@ -12,7 +12,7 @@
 11_ ls -la . .. /boot to print all files from current, working and boot dir
 12_ file filename to print the type of a file
 13_ ln -s [target] [symlink]
-14_  
+14_ cp *.html ..  * to select all .html and .. to cp to parent dir 
 15_
 16_
 17_
