@@ -14,5 +14,5 @@
 13_ ln -s [target] [symlink]
 14_ cp *.html ..  * to select all .html and .. to cp to parent dir 
 15_ mv [A-Z]* /tmp/u
-16_
+16_ rm *~
 17_
