@@ -1,6 +1,6 @@
 0_ sudo - <username> to switch the current user to another one
 1_ whoami to print de current username
-2_
+2_ id -Gn to print all the groups the current user is part of 
 3_
 4_
 5_
