@@ -8,7 +8,7 @@
 7_ chmod a+x filename to add execute permission to everyone
 8_ chmod 007 filename to give permission only to others
 9_ chmod 753 file name to give -rwxr-x-wx
-10_
+10_ chmod --reference=<originalFile> <newFile>
 11_
 12_
 13_
