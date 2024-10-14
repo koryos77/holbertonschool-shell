@@ -1,0 +1,1 @@
+0_ sudo - <username> to switch the current user to another one
