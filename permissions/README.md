@@ -2,7 +2,7 @@
 1_ whoami to print de current username
 2_ id -Gn to print all the groups the current user is part of 
 3_ chown user file to change the owner of a file
-4_
+4_ touch to create a file
 5_
 6_
 7_
