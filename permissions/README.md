@@ -5,8 +5,8 @@
 4_ touch to create a file
 5_ chmod user+x filename to add execute permission to a user 
 6_ chmod 754 filename to add execute permission to user, group owner and read only for others
-7_ chmod 777 filename to add execute permission to everyone
-8_
+7_ chmod a+x filename to add execute permission to everyone
+8_ chmod 007 filename to give permission only to others
 9_
 10_
 11_
