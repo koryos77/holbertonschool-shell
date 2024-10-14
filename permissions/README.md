@@ -1,7 +1,7 @@
 0_ sudo - <username> to switch the current user to another one
 1_ whoami to print de current username
 2_ id -Gn to print all the groups the current user is part of 
-3_
+3_ chown user file to change the owner of a file
 4_
 5_
 6_
