@@ -7,7 +7,7 @@
 6_ chmod 754 filename to add execute permission to user, group owner and read only for others
 7_ chmod a+x filename to add execute permission to everyone
 8_ chmod 007 filename to give permission only to others
-9_
+9_ chmod 751 file name to give -rwxr-x-wx
 10_
 11_
 12_
