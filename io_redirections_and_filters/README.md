@@ -1,5 +1,5 @@
 0._ echo "something" to print 
-1._
+1._ echo "\"(Ôo)'" backslash allowed the use of special character
 2._
 3._
 4._
