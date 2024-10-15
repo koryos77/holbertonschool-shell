@@ -4,7 +4,7 @@
 3._ cat file file to display the content of severals files
 4._ tail -n [numbers of lines] file to print a defined number of the last lines or tail file to display the last 10lines
 5._ head file or head -n [number] file to do the same as tail but for the first lines
-6._
+6._ head -n 3 yourfile.txt | tail -n 1 to file a specific line (the third one in this ex)
 7._
 8._
 9._
