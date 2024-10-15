@@ -1,7 +1,7 @@
 0._ echo "something" to print 
 1._ echo "\"(Ôo)'" backslash allowed the use of special character
-2._
-3._
+2._ cat file to display the content of a file
+3._ cat file file to display the content of severals files
 4._
 5._
 6._
