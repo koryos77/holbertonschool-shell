@@ -2,8 +2,8 @@
 1._ echo "\"(Ôo)'" backslash allowed the use of special character
 2._ cat file to display the content of a file
 3._ cat file file to display the content of severals files
-4._ tail -n [numbers of lines] file to print a defined number of the last lines
-5._
+4._ tail -n [numbers of lines] file to print a defined number of the last lines or tail file to display the last 10lines
+5._ head file or head -n [number] file to do the same as tail but for the first lines
 6._
 7._
 8._
