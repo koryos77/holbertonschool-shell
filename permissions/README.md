@@ -14,4 +14,4 @@
 13_ chgrp to change the group owner
 14_ chown -R user:group to change the owner and the group owner of all dir
 15_ chown -h user:group symlinkName to change owner and the group owner of a symlink
-16_
+16_ chown --from=owner new_owner filename to change an owner if only option
