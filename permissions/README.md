@@ -11,7 +11,7 @@
 10_ chmod --reference=<newFile> <originFile>
 11_ chmod -R a+x */ to give owners, groups and others executions for all subsdir
 12_ mkdir -m 751 my_dir to make a dir called my_dir with permissions 751 in the working dir
-13_
-14_
-15_
+13_ chgrp to change the group owner
+14_ chown -R user:group to change the owner and the group owner of all dir
+15_ chown -h user:group symlinkName to change owner and the group owner of a symlink
 16_
