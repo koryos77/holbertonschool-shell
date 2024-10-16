@@ -1,2 +1,18 @@
-The ls -la lists the contents in a detailed format
-The ls -la lists the contents in a detailed format
+total 64
+-rw-rw-r-- 1 koryos koryos   15 oct.  15 15:04 --
+drwxrwxr-x 2 koryos koryos 4096 oct.  16 10:06 .
+-rw-rw-r-- 1 koryos koryos   15 oct.  15 15:05 .)
+drwxrwxr-x 6 koryos koryos 4096 oct.  15 11:36 ..
+-rwxrw-r-- 1 koryos koryos   32 oct.  15 11:47 0-hello_world
+-rwxrw-r-- 1 koryos koryos   28 oct.  15 13:04 1-confused_smiley
+-rwxrw-r-- 1 koryos koryos   28 oct.  15 13:59 2-hellofile
+-rwxrw-r-- 1 koryos koryos   39 oct.  15 14:02 3-twofiles
+-rwxrw-r-- 1 koryos koryos   29 oct.  15 14:12 4-lastlines
+-rwxrw-r-- 1 koryos koryos   29 oct.  15 14:14 5-firstlines
+-rwxrw-r-- 1 koryos koryos   40 oct.  15 14:21 6-third_line
+-rwxrw-r-- 1 koryos koryos   80 oct.  16 09:47 7-file
+-rwxrw-r-- 1 koryos koryos   36 oct.  16 10:06 8-cwd_state
+-rw-rw-r-- 1 koryos koryos   12 oct.  16 09:47 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 koryos koryos  801 oct.  15 14:20 iacta
+-rw-rw-r-- 1 koryos koryos    0 oct.  16 10:06 ls_cwd_content
+-rw-rw-r-- 1 koryos koryos  604 oct.  16 09:52 README.md
