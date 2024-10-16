@@ -17,7 +17,7 @@
 16._
 17._
 18._
-19._
+19._ tr 'oldletter' 'newletter' < inputfile > outputfile
 20._
 21._
 22._
