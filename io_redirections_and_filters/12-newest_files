@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t --ignore='.*' | head -n 11 | tail -n 10
+ls -t --ignore='.*' | head -n 10
