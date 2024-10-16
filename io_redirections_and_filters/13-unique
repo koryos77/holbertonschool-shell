@@ -1,0 +1,2 @@
+#!/bin/bash
+cat cat_list | sort | uniq -u
