@@ -6,7 +6,7 @@
 5._ head file or head -n [number] file to do the same as tail but for the first lines
 6._ head -n 3 yourfile.txt | tail -n 1 to file a specific line (the third one in this ex)
 7._ RTFM of special characters
-8._
+8._ command > file to create a file with the command inside 
 9._
 10._
 11._
