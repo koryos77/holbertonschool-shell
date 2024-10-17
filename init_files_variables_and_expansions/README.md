@@ -1,7 +1,7 @@
 0._ alias shorter name="longer name"
 1._ echo "Hello, $USER" || USER(whoami)
 2._ echo hello $USER
-3._
+3._ export PATH=$PATH:/action
 4._
 5._
 6._
