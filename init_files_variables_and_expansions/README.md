@@ -1,11 +1,11 @@
 0._ alias shorter name="longer name"
 1._ echo "Hello, $USER" || USER(whoami)
 2._ echo hello $USER
-3._ export PATH=$PATH:/action
-4._
-5._
-6._
-7._
+3._ 
+4._ printenv | less
+5._ set | less
+6._ local BEST="School"
+7._ global BEST="School"
 8._
 9._
 10._
