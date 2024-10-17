@@ -9,7 +9,7 @@
 8._ echo $((var1+var2))
 9._ echo $((var1/var2))
 10._ echo $((var1**var2))
-11._
+11._ echo "obase=binary" | bc obase stand for output base and ibase for inputbase bc for basic calculator
 12._
 13._
 14._
