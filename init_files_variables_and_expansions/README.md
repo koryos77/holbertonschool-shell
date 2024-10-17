@@ -6,9 +6,9 @@
 5._ set | less
 6._ local BEST="School"
 7._ global BEST="School"
-8._
-9._
-10._
+8._ echo $((var1+var2))
+9._ echo $((var1/var2))
+10._ echo $((var1**var2))
 11._
 12._
 13._
