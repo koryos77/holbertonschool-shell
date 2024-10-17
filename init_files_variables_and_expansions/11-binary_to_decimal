@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(("obase=BINARY")) | bc
+decimal_value=$((2#$BINARY)) | echo "$decimal_value"
